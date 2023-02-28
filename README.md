@@ -32,6 +32,8 @@ Will be adding the the ability to allow the user to add their own versions of Mo
 Here's a walkthrough of implemented user stories:
 
 [img]http://i.imgur.com/5pFDFclh.gif[/img]
+
+
 [Imgur](https://imgur.com/5pFDFcl)
 
 GIF created with ...  
