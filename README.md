@@ -31,7 +31,7 @@ Will be adding the the ability to allow the user to add their own versions of Mo
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://imgur.com/a/day34jE' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![MousseyApp](https://imgur.com/a/day34jE)
 
 GIF created with ...  
 [Kap](https://getkap.co/)
