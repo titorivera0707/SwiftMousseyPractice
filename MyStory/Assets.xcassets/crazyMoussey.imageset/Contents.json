@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "FB630737-34A7-4195-93F0-EE8957C60030.heic",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "FB630737-34A7-4195-93F0-EE8957C60030 1.heic",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "FB630737-34A7-4195-93F0-EE8957C60030 2.heic",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

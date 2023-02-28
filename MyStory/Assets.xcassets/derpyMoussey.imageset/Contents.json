@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "21E9BD2B-A265-4223-8928-3AEC1F850DC0.heic",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "21E9BD2B-A265-4223-8928-3AEC1F850DC0 1.heic",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "21E9BD2B-A265-4223-8928-3AEC1F850DC0 2.heic",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
