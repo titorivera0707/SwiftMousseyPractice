@@ -21,7 +21,9 @@ The following features are implemented:
 - [ ] Improve and customize the user interface through styling and coloring
 - [ ] Allow users to scroll when context items are off-screen (table view implemention)
 
-The following **additional** features are implemented:
+The following features are implemented:
+
+The app allows the user to navigate through a small story about Moussey and her day to day adventures. App has four buttons which will lead the user to different stories about Moussey.
 
 Will be adding the the ability to allow the user to add their own versions of Moussey's story.
 
@@ -29,7 +31,7 @@ Will be adding the the ability to allow the user to add their own versions of Mo
 
 Here's a walkthrough of implemented user stories:
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/day34jE" data-context="false" ><a href="//imgur.com/a/day34jE"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<img src='https://imgur.com/a/day34jE' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with ...  
 [Kap](https://getkap.co/)
