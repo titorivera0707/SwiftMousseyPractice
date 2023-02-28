@@ -31,7 +31,7 @@ Will be adding the the ability to allow the user to add their own versions of Mo
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/5pFDFcl.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![](http://i.imgur.com/5pFDFcl.gif)
 
 
 GIF created with ...  
