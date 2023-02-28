@@ -35,7 +35,7 @@ Here's a walkthrough of implemented user stories:
 
 
 GIF created with ...  
-[Kap](https://getkap.co/)
+[Giphy](https://giphy.com/)
 
 ## Notes
 
